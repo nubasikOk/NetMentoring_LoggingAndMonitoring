@@ -1,1 +1,0 @@
-logparser -i:W3C -o:csv "SELECT * INTO C:\Users\Viachaslau_Kitsun\Desktop\NetMentoring_LoggingMonitoring\MvcMusicStore\logs\results.csv FROM C:\Users\Viachaslau_Kitsun\Desktop\NetMentoring_LoggingMonitoring\MvcMusicStore\logs\2019-04-04.log"
